@@ -19,16 +19,19 @@
   <!-- Slide 2 -->
   <div class="carousel-item">
     <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInUp">...von Websiten sein kann. </h2>
-      <h2 class="animate__animated animate__fadeInDown">Vielen Dank Ali!!!</h2>
-      <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Weitere Informationen</a>
-    </div>
+    <h2 class="animate__animated animate__fadeInDown">Geheime Informationen:</h2>
+      <h2 class="animate__animated animate__fadeInUp">Thomas Schmitz </h2>
+    <h2 class="animate__animated animate__fadeInDown">Oberhausen</h2>
   </div>
+</div>
 
-  <!-- Slide 3 -->
-  <div class="carousel-item">
-    <div class="carousel-container">
-      <h2 class="animate__animated animate__fadeInDown">...wie einfach das Erstellen...</h2>
+<!-- Slide 3 -->
+<div class="carousel-item">
+  <div class="carousel-container">
+    <h2 class="animate__animated animate__fadeInDown">...wie einfach das Erstellen</h2>
+    <h2 class="animate__animated animate__fadeInUp">von Websiten sein kann. </h2>
+    <h2 class="animate__animated animate__fadeInDown">Vielen Dank Ali!!!</h2>
+    <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Weitere Informationen</a>
 
     </div>
   </div>
