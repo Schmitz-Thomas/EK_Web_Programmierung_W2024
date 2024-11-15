@@ -79,7 +79,7 @@
       <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
         <i class="bi bi-geo-alt flex-shrink-0"></i>
         <div>
-          <h3>Address</h3>
+          <h3>Addresse</h3>
           <p>Oberhausen</p>
         </div>
       </div><!-- End Info Item -->
