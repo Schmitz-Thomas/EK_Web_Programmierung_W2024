@@ -130,9 +130,21 @@
             <button type="submit">Send Message</button>
           </div>
 
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
         </div>
       </form>
     </div><!-- End Contact Form -->
+  
+
 
   </div>
 

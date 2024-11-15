@@ -22,7 +22,7 @@
           <li><i class="bi bi-check-circle"></i> <span>Onlineseiten kennengelernt wie z.B. Git-Hub oder Bootstrap</span></li>
           <li><i class="bi bi-check-circle"></i> <span>Erlernt wie unbeschreiblich hilfreich diese sind!</span></li>
           <li><i class="bi bi-check-circle"></i> <span>Grundlegende Konfigurationsbefehle für HTML/PHP und ihre Positionierung</span></li>
-          <li><i class="bi bi-check-circle"></i> <span>Die erforderliche Ordnerstruktur damit man eigene Projekte auch mit anderen teilen kann :) </span></li>
+          <li><i class="bi bi-check-circle"></i> <span>Die erforderliche Ordnerstruktur, damit man eigene Projekte auch mit anderen teilen kann :) </span></li>
         </ul>
         <p> </p>
 
